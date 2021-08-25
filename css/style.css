@@ -1,0 +1,12 @@
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../image/pexels-tembela-bohle-1884574.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.carousel-inner{
+    height: 700px;
+}
+footer{
+    background-color: lightsteelblue;
+}
